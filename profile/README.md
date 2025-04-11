@@ -1,5 +1,4 @@
-![og-image](https://github.com/user-attachments/assets/946e4110-bac1-4c35-b1a3-96dc986a6240)
-
+<p align="center"><img src="https://github.com/user-attachments/assets/946e4110-bac1-4c35-b1a3-96dc986a6240" alt="og:image" width="600" height="auto" ></p>
 
 # Keupang
 
@@ -90,7 +89,7 @@
 
 ## 👨‍👩‍👧‍👦 Members
 
-| Frontend | Frontend | Backend |  Backend |
-| :---: | :---: | :---: |  :---: |
+| Frontend | Backend |
+| :---: | :---: |
 | <a href="https://github.com/forever2969"><img src="https://github.com/user-attachments/assets/747f23b9-6b9d-4136-9cc5-f346171fcffd" alt="profile" width="140" height="140"></a> | <a href="https://github.com/JongHak19"><img src="https://github.com/user-attachments/assets/c979576a-ba3b-493b-9082-1c2e1988206c" alt="profile" width="140" height="140"></a> | 
 | [이태헌](https://github.com/forever2969) |  [최종학](https://github.com/JongHak19) |
